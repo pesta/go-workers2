@@ -5,7 +5,7 @@ import (
 	"encoding/hex"
 	"encoding/json"
 	"fmt"
-	"github.com/digitalocean/go-workers2/storage"
+	"github.com/pesta/go-workers2/storage"
 	"os"
 	"strings"
 	"time"
